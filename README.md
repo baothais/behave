@@ -10,7 +10,7 @@ _Định nghĩa:_
 
 _Cú pháp:_
 
-   Feature: As a user I want to subscribe with my Email sothat I can get the news which provided by system
+    Feature: As a user I want to subscribe with my Email sothat I can get the news which provided by system
    
       Scenario: Subscribe with existed Email then see the popup message
          Given I open the page with subscription function
