@@ -9,6 +9,7 @@ _Định nghĩa:_
  - Một file feature hợp lệ (không sai về cú pháp), khi chạy mỗi step sẽ match với một code block được định nghĩa trong file mã nguồn sử dụng các ngôn ngữ lập trình như Java/Ruby/Python gọi là "Step Definitions"
 
 _Cú pháp:_
+
   Feature: As a user I want to subscribe with my Email sothat I can get the news which provided by system
   
      Scenario: Subscribe with existed Email then see the popup message
